@@ -12,6 +12,7 @@ export default class Home extends Component {
   render() {
     return (
 			<Container>
+        <h1>Andres Mena</h1>
 			  <Image src={require('../assets/Simba.jpg')} alt="simba-image" />
 			  <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in velit dolor. In et 
