@@ -11,7 +11,7 @@ class Projects extends Component {
 	render() {
 		return (
 			<Container>
-			<Relative marginBottom="100px">
+			<Relative marginBottom="100pxx">
 				<Index>
 					<h1>01</h1>
 				</Index>
